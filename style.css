@@ -1,0 +1,31 @@
+nav {
+    background-color: #6bffdc9c;
+    padding: 10px;
+    border-bottom: 1px solid #ffffff;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 110;
+    padding: 110;
+    justify-items: center;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 110px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #ffffff;
+    padding: 5px 10px;
+    box-shadow: 0 5px 8px;
+}
+
+nav a:hover {
+    background-color: #00ffe5;
+}
+#S{
+    text-decoration: underline;
+}
